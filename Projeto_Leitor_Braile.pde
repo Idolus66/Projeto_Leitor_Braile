@@ -1,5 +1,5 @@
 import blobscanner.*;
-
+// teste 
 
 Detector bs;
 PImage img,imgaux;
